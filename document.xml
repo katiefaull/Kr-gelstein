@@ -10,9 +10,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/752aa1e4-3e80-42d2-9665-2591da2627b9"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/90245679-4b4d-4b68-be5c-c442131a2198"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.627Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.414Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.627Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.414Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -36,9 +36,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/3bc9e136-4196-4e25-a2cc-ad4da532ee6c"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Moravia"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.628Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.415Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.628Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.415Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -63,9 +63,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/f953c2e4-6dc1-4266-8b31-0bcbba6e715b"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Jesus"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.629Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.416Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.629Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.416Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -90,9 +90,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/78dcda54-d7b8-456f-af58-96cd82836d75"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Jesus"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.629Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.416Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.629Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.416Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -117,9 +117,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/c405907b-2242-4d21-8e7b-6a80c004f7e9"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Herrnhut"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.630Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.416Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.630Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.416Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -144,9 +144,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/13d3248e-9a2b-4672-be28-eb27ce96cf1c"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/88297284/"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.631Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.417Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.631Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.417Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -171,9 +171,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/aa91c432-7c6d-4b0e-a642-4271ed34be2c"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Frankfurt"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.631Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.418Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.631Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.418Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -198,9 +198,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/1ba46752-9a67-45a3-8df0-a066f1deb817"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Jesus"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.632Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.418Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.632Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.418Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -225,9 +225,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/827ab25a-8967-4d79-9147-b1760f3522e1"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Berthelsdorf"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.632Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.419Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.632Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.419Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -252,9 +252,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/b409b900-98ae-463b-8d3b-bf1f72db4d14"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Governorate_of_Livonia"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.633Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.420Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.633Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.420Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -279,9 +279,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/96dcce51-3759-473e-a8c5-9c34d4e3661a"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/241858484/"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.634Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.421Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.634Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.421Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -306,9 +306,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/b1922f97-721e-4c1a-937a-ce42ee101885"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Nicolaus_Zinzendorf"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.634Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.422Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.634Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.422Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -333,9 +333,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/79cf4834-149c-4dd4-887b-ce6703502317"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Governorate_of_Livonia"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.635Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.423Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.635Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.423Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -360,9 +360,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/7d705977-b6fb-4918-811f-8519547b64c7"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/27469041/"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.636Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.424Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.636Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.424Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -387,9 +387,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/3580b73d-f8dc-41c7-89a5-c5e4e6ec5a3a"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.wikidata.org/entity/Q27580754"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.636Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.424Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.636Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.424Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -410,35 +410,89 @@
 	<rdf:value>xpointer(//persName[@annotationId="ent_2446"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/322ab4b1-f093-4d54-ba24-c6219eb54cc9">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/b3a92235-4f2d-4cef-a1da-5ee72bdc82de"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Berthelsdorf"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/e731c689-1931-48a0-b8d0-22773f96ac7a"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.636Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/061d0445-b396-4717-83da-371f76673e6b">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/febb1ee8-f5c1-43a5-bb7d-7bc61ffb7808"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/05c45afe-1383-4b1d-b183-81b640ded149"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.424Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:24:28.636Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.424Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://dbpedia.org/resource/Berthelsdorf","uri":"http://dbpedia.org/resource/Berthelsdorf","name":"Berthelsdorf","repository":"dbpedia","originalQueryString":"Berthelsdorf.","description":"Berthelsdorf is a municipality in the district of Görlitz, in the southeastern part of the Free State of Saxony, Germany."}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://dbpedia.org/resource/Berthelsdorf","cert":"definite"}</cw:cwrcAttributes>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://dbpedia.org/resource/Saint_Petersburg","uri":"http://dbpedia.org/resource/Saint_Petersburg","name":"Saint Petersburg","repository":"dbpedia","originalQueryString":"Petersburg","description":"Saint Petersburg is a city and a federal subject of Russia located on the Neva River at the head of the Gulf of Finland on the Baltic Sea. In 1914 the name of the city was changed to Petrograd, in 1924 to Leningrad and in 1991 back to Saint Petersburg. In Russian literature, informal documents, and discourse, the \"Saint\" (Санкт-) is usually omitted, leaving Petersburg (Петербург, Peterburg). In common parlance Russians may drop \"-burg\" (-бург) as well, leaving only Peter."}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://dbpedia.org/resource/Saint_Petersburg","cert":"definite"}</cw:cwrcAttributes>
 <cw:hasPrecision xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#high"/></rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dbpedia.org/resource/Berthelsdorf">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dbpedia.org/resource/Saint_Petersburg">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/b3a92235-4f2d-4cef-a1da-5ee72bdc82de">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/ff2aad5f-de77-4997-8688-8a7b8d6812ff"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/febb1ee8-f5c1-43a5-bb7d-7bc61ffb7808">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/5b735bd8-350c-4ed7-9da0-22a53eb8aea5"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/22b72a74-d67e-4677-a2d9-8d27fd02ad19"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/5f537e89-9728-447e-8107-600372aa78f8"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/22b72a74-d67e-4677-a2d9-8d27fd02ad19">
-	<oa:start xmlns:oa="http://www.w3.org/ns/oa#">xpointer(string-range(//placeName[@offsetId="struct_2545"],"",0))</oa:start>
-	<oa:end xmlns:oa="http://www.w3.org/ns/oa#">xpointer(string-range(//p[@offsetId="struct_2530"],"",1598))</oa:end>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#TextPositionSelector"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/5f537e89-9728-447e-8107-600372aa78f8">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_3249"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/2e2a8dea-50e0-4717-bce0-60fb3c50bddd">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/15725453-36ff-4c03-98c1-b91aafbdaff7"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Governorate_of_Livonia"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/fd42c939-0878-4391-913e-bc441e855e08"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.425Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.425Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://dbpedia.org/resource/Governorate_of_Livonia","uri":"http://dbpedia.org/resource/Governorate_of_Livonia","name":"Governorate of Livonia","repository":"dbpedia","originalQueryString":"Livonia","description":"The Governorate of Livonia or Livland Governorate, also known as the Government of Livonia or Province of Livonia, was one of the Baltic governorates of the Russian Empire, now divided between the Republic of Latvia and the Republic of Estonia. It was originally called the Riga Governorate after the city of Riga, the capital of Livonia. It was created July 28  1712 out of Swedish Livonia, territories conquered from Sweden in the Great Northern War."}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://dbpedia.org/resource/Governorate_of_Livonia","cert":"definite"}</cw:cwrcAttributes>
+<cw:hasPrecision xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#high"/></rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dbpedia.org/resource/Governorate_of_Livonia">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/15725453-36ff-4c03-98c1-b91aafbdaff7">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/767261dc-477e-4120-902d-0ff4aa7e46c8"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/3784e3ee-ff81-472a-90f6-0d6911d8939a"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/3784e3ee-ff81-472a-90f6-0d6911d8939a">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_3250"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/eeb8261c-64ae-44f1-bef3-fb893e4642e9">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/c9ad54c8-877a-43a8-b635-b98ecb392ab6"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/f21c13e8-4e27-4aab-aec9-40554fd15137"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.426Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:26:36.426Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://dbpedia.org/resource/Saint_Petersburg","uri":"http://dbpedia.org/resource/Saint_Petersburg","name":"Saint Petersburg","repository":"dbpedia","originalQueryString":"Petersburg","description":"Saint Petersburg is a city and a federal subject of Russia located on the Neva River at the head of the Gulf of Finland on the Baltic Sea. In 1914 the name of the city was changed to Petrograd, in 1924 to Leningrad and in 1991 back to Saint Petersburg. In Russian literature, informal documents, and discourse, the \"Saint\" (Санкт-) is usually omitted, leaving Petersburg (Петербург, Peterburg). In common parlance Russians may drop \"-burg\" (-бург) as well, leaving only Peter."}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://dbpedia.org/resource/Saint_Petersburg","cert":"definite"}</cw:cwrcAttributes>
+<cw:hasPrecision xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#high"/></rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dbpedia.org/resource/Saint_Petersburg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/c9ad54c8-877a-43a8-b635-b98ecb392ab6">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/04107dc9-3479-4ef9-ad5e-6b9e8baac32f"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/2882f123-cfb5-4c14-9c2c-fea19b5270cf"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/2882f123-cfb5-4c14-9c2c-fea19b5270cf">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_3251"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 </rdf:RDF>
+
 
 
 
@@ -505,7 +559,7 @@
          <sourceDesc>
             <p>The Life of Ann Krugelstein</p>
          </sourceDesc>
-      </fileDesc><encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-02-11T01:23:34.553Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
+      </fileDesc><encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-02-11T01:25:42.744Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
    <text>
       <body>
 
@@ -522,7 +576,7 @@
 
             <div type="page" n="1">
                <head>Ann Krügelstein memoir, page 1</head>
-               <!--        graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-01.jpg"        -->
+               <!--         graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-01.jpg"         -->
                <p> I was born <date>July 10th 1713</date> at <placeName annotationId="ent_409">Zauchtenthal near Fulneck in
                      Moravia</placeName>. Already in my second Year I experienced a grac- ious
                   Preservation of God. My Mother used to gather Grass for her Cattle, &amp;
@@ -542,7 +596,7 @@
             </div>
             <div type="page" n="2l">
                <head>Ann Krügelstein memoir, page 2 (left)</head>
-               <!--        graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-02.jpg"        -->
+               <!--         graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-02.jpg"         -->
                <p> me upon this Occasion into a particular School , stirred up in my a Confidence to
                   God, so that I could converse with him quite familiarly, &amp; preserved me in
                   many Dan, gers from Deviations, giving me an Admonition when I was not on the
@@ -594,7 +648,7 @@
             </div>
 
             <div type="page" n="3l">
-               <!--        graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-03.jpg"         -->
+               <!--         graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-03.jpg"          -->
                <head>Ann Krügelstein memoir, page 3 (left)</head>
                <p> great Comunion <date>Aug. 13<hi rend="superscript">th</hi>. 1727</date>, and I
                   begged the <persName annotationId="ent_2040" ref="http://dbpedia.org/resource/Jesus" type="both" cert="definite">Lord Jesus</persName>, <hi rend="strikethrough">attended</hi> with many Tears to
@@ -647,7 +701,7 @@
             </div>
 
             <div type="page" n="4l">
-               <!--         graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-04.jpg"         -->
+               <!--          graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-04.jpg"          -->
                <head>Ann Krügelstein memoir, page 4 (left)</head>
                <p> experience Poverty &amp; Reproach of various Kinds. Till <date>1736</date> we had
                   the Care of the Girls <sic>Oeconomy <corr>Economy</corr></sic> in
@@ -681,12 +735,12 @@
             <div type="page" n="4r">
                <head>Ann Krügelstein memoir, page 4 (right)</head>
                <p> The <persName>Brn. <persName annotationId="ent_2446" ref="http://www.wikidata.org/entity/Q27580754" cert="definite" type="real">Gutslef</persName></persName> and <persName>Helderhof</persName>were
-                  first brought as Pri- soners to <placeName>Petersburg</placeName>, and in
+                  first brought as Pri- soners to <placeName><placeName annotationId="ent_3249" ref="http://dbpedia.org/resource/Saint_Petersburg" cert="definite">Petersburg<precision annotationId="ent_3249" precision="high"/></placeName></placeName>, and in
                      <date>June</date> following also <persName>Br. Fritshe</persName> and my
                   Husband. Though there was a very strict Prohibition, that none of the Brn. &amp;
                   Srs. should be suffered either to leave the Country or come into it; I ventured it
                   however to travel with my Son 3<unclear>1/2</unclear> Years old, whom our Savior
-                  had given me in <placeName>Livonia</placeName>, &amp; a Foster Daughter
+                  had given me in <placeName><placeName annotationId="ent_3250" ref="http://dbpedia.org/resource/Governorate_of_Livonia" cert="definite">Livonia<precision annotationId="ent_3250" precision="high"/></placeName></placeName>, &amp; a Foster Daughter
                      <persName>Mary Jacob</persName>, to <placeName>Herrnhut</placeName>. Having no
                   Passport I could not travel on the public Roads, &amp; as besides this 6000
                   Russians had formed a Line from the <placeName>River Dina</placeName> to the
@@ -711,7 +765,7 @@
             </div>
 
             <div type="page" n="5l">
-               <!--         graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-05.jpg"         -->
+               <!--          graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-05.jpg"          -->
                <head>Ann Krügelstein memoir, page 5 (left)</head>
                <p>
                   <date>Jan. 29<hi rend="superscript">th</hi>. 1748</date>. In Aug. the same Year I
@@ -729,7 +783,7 @@
                   Bone, &amp; shall remain his eternally tho' I am very poor and wretched. I go with
                   that Mind to my dear Husband to do that which our Savior would have me to do, and
                   I shall continue sitting at the Feet of Jesus. The <date>29<hi rend="superscript">th</hi>. the same Month</date> we arrived at
-                     <placeName>Petersburg</placeName>. But I had to keep myself at first very still
+                     <placeName><placeName annotationId="ent_3251" ref="http://dbpedia.org/resource/Saint_Petersburg" cert="definite">Petersburg<precision annotationId="ent_3251" precision="high"/></placeName></placeName>. But I had to keep myself at first very still
                   in <persName>Br. Koehlers</persName> House, till he had procured Leave for me to
                   come to <placeName>Petersburg</placeName>. Besides this I grew so sick, that I
                   could not think otherwise, but that I should depart this Life without having seen
@@ -770,7 +824,7 @@
             </div>
 
             <div type="page" n="6l">
-               <!--         graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-06.jpg"         -->
+               <!--          graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-06.jpg"          -->
                <head>Ann Krügelstein memoir, page 6 (left)</head>
                <p> But our Joy did again not last long, for in <date>May 1752</date> our Brn had to
                   return again to the Catacombs |: <hi rend="strikethrough">subterrarious</hi>
@@ -831,7 +885,7 @@
             </div>
 
             <div type="page" n="7l">
-               <!--        graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-08.jpg" (page 7 image is a duplicate)        -->
+               <!--         graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-08.jpg" (page 7 image is a duplicate)         -->
                <head>Ann Krügelstein memoir, page 7 (left)</head>
                <p> &amp; Mind, that they were Prisoners here in <placeName>Petersburg</placeName>;
                   my Husband was also convincedof it, &amp; we encouraged each other often to be
@@ -887,7 +941,7 @@
             </div>
 
             <div type="page" n="8l">
-               <!--         graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-09.jpg"         -->
+               <!--          graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-09.jpg"          -->
                <head>Ann Krügelstein memoir, page 8 (left)</head>
                <p> strict. At last we arrived at <placeName>Maram</placeName> upon the
                      <placeName>River Ocke</placeName>, where we met with more friendly People,who
@@ -948,7 +1002,7 @@
             </div>
 
             <div type="page" n="9l">
-               <!--         graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-10.jpg"         -->
+               <!--          graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-10.jpg"          -->
                <head>Ann Krügelstein memoir, page 9 (left)</head>
                <p>
                   <persName>Commander Plaisin</persName>, who out of Love to my Husband, procured a
@@ -1011,7 +1065,7 @@
             </div>
 
             <div type="page" n="10l">
-               <!--         graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-11.jpg"         -->
+               <!--          graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-11.jpg"          -->
                <head>Ann Krügelstein memoir, page 10 (left)</head>
                <p> the Name of the Ambassador of Saxony. Having now rested here a little after so
                   many sleepless Nights, Dangers, Troubles &amp; Distress, I sat out from
@@ -1075,7 +1129,7 @@
             </div>
 
             <div type="page" n="11">
-               <!--         graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-12.jpg"         -->
+               <!--          graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-12.jpg"          -->
                <head>Ann Krügelstein memoir, page 11</head>
                <p> &amp; low had a particular Love, Confidence &amp; Esteem for her. She has shewn
                   inexpressible Faithfulness to me &amp; my Child <unclear>till</unclear> to her
