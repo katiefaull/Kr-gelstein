@@ -10,9 +10,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/752aa1e4-3e80-42d2-9665-2591da2627b9"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/90245679-4b4d-4b68-be5c-c442131a2198"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:05:00.224Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:06:38.145Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:05:00.224Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:06:38.145Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -36,9 +36,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/3bc9e136-4196-4e25-a2cc-ad4da532ee6c"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Moravia"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:05:00.224Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:06:38.145Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:05:00.224Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:06:38.145Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -63,9 +63,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/f953c2e4-6dc1-4266-8b31-0bcbba6e715b"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Jesus"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:05:00.225Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:06:38.146Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:05:00.225Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:06:38.146Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -90,9 +90,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/78dcda54-d7b8-456f-af58-96cd82836d75"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Jesus"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:05:00.225Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:06:38.146Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:05:00.225Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:06:38.146Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -117,9 +117,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/c405907b-2242-4d21-8e7b-6a80c004f7e9"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Herrnhut"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:05:00.226Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:06:38.146Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:05:00.226Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:06:38.146Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -144,9 +144,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/13d3248e-9a2b-4672-be28-eb27ce96cf1c"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/88297284/"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:05:00.227Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:06:38.147Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:05:00.227Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:06:38.147Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -167,7 +167,35 @@
 	<rdf:value>xpointer(//persName[@annotationId="ent_414"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/e14d4c46-09ad-472c-b972-8a352060e361">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/aa91c432-7c6d-4b0e-a642-4271ed34be2c"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Frankfurt"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/4b9ade82-2814-48da-a1a1-2cd0ca2e0442"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:06:38.148Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:06:38.148Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://dbpedia.org/resource/Frankfurt","uri":"http://dbpedia.org/resource/Frankfurt","name":"Frankfurt","repository":"dbpedia","originalQueryString":"Frankfurt on Main","description":"Frankfurt am Main, commonly known as Frankfurt, is the largest city in the German state of Hesse and the fifth-largest city in Germany, with a 2011 population of 695,624. The urban area had an estimated population of 2,300,000 in 2010. The city is at the centre of the larger Frankfurt Rhine-Main Metropolitan Region which has a population of 5,600,000 and is Germany's second-largest metropolitan region."}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://dbpedia.org/resource/Frankfurt","cert":"definite"}</cw:cwrcAttributes>
+<cw:hasPrecision xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#high"/></rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dbpedia.org/resource/Frankfurt">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/aa91c432-7c6d-4b0e-a642-4271ed34be2c">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/21cbe919-2eac-4185-9acd-a5f1b26f6f2a"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/1efbadc0-aaaf-4810-a54c-8f4b19f9f80c"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/1efbadc0-aaaf-4810-a54c-8f4b19f9f80c">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_1644"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
 </rdf:RDF>
+
 
 
 
@@ -230,7 +258,7 @@
          <sourceDesc>
             <p>The Life of Ann Krugelstein</p>
          </sourceDesc>
-      </fileDesc><encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-02-11T01:04:05.980Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
+      </fileDesc><encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-02-11T01:05:44.472Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
    <text>
       <body>
 
@@ -247,7 +275,7 @@
 
             <div type="page" n="1">
                <head>Ann Krügelstein memoir, page 1</head>
-               <!--    graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-01.jpg"    -->
+               <!--     graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-01.jpg"     -->
                <p> I was born <date>July 10th 1713</date> at <placeName annotationId="ent_409">Zauchtenthal near Fulneck in
                      Moravia</placeName>. Already in my second Year I experienced a grac- ious
                   Preservation of God. My Mother used to gather Grass for her Cattle, &amp;
@@ -267,7 +295,7 @@
             </div>
             <div type="page" n="2l">
                <head>Ann Krügelstein memoir, page 2 (left)</head>
-               <!--    graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-02.jpg"    -->
+               <!--     graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-02.jpg"     -->
                <p> me upon this Occasion into a particular School , stirred up in my a Confidence to
                   God, so that I could converse with him quite familiarly, &amp; preserved me in
                   many Dan, gers from Deviations, giving me an Admonition when I was not on the
@@ -319,7 +347,7 @@
             </div>
 
             <div type="page" n="3l">
-               <!--    graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-03.jpg"     -->
+               <!--     graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-03.jpg"      -->
                <head>Ann Krügelstein memoir, page 3 (left)</head>
                <p> great Comunion <date>Aug. 13<hi rend="superscript">th</hi>. 1727</date>, and I
                   begged the Lord Jesus, <hi rend="strikethrough">attended</hi> with many Tears to
@@ -372,14 +400,14 @@
             </div>
 
             <div type="page" n="4l">
-               <!--     graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-04.jpg"     -->
+               <!--      graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-04.jpg"      -->
                <head>Ann Krügelstein memoir, page 4 (left)</head>
                <p> experience Poverty &amp; Reproach of various Kinds. Till <date>1736</date> we had
                   the Care of the Girls <sic>Oeconomy <corr>Economy</corr></sic> in
                      <placeName>Herrnhut</placeName>, &amp; assisted in the Work of the Lord &amp;
                   the Congrn. and particularly the married Choir. In <date>June the same Year</date>
                   we went to <placeName>Ronneburg in Wetteravia</placeName>, &amp; from there to
-                     <placeName>Frankfort upon Mayn</placeName>, &amp; with these Journies we made
+                     <placeName><placeName annotationId="ent_1644" ref="http://dbpedia.org/resource/Frankfurt" cert="definite">Frankfort upon Mayn<precision annotationId="ent_1644" precision="high"/></placeName></placeName>, &amp; with these Journies we made
                   the Beginning of a poor Pilgrim Life, having often at our Nights Lodgings neither
                   Bed Clothes above nor under us; and in the latter Place, there arose soon a
                   Persecution against the Brethren, so that we were obliged to leave the City. We
@@ -436,7 +464,7 @@
             </div>
 
             <div type="page" n="5l">
-               <!--     graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-05.jpg"     -->
+               <!--      graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-05.jpg"      -->
                <head>Ann Krügelstein memoir, page 5 (left)</head>
                <p>
                   <date>Jan. 29<hi rend="superscript">th</hi>. 1748</date>. In Aug. the same Year I
@@ -495,7 +523,7 @@
             </div>
 
             <div type="page" n="6l">
-               <!--     graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-06.jpg"     -->
+               <!--      graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-06.jpg"      -->
                <head>Ann Krügelstein memoir, page 6 (left)</head>
                <p> But our Joy did again not last long, for in <date>May 1752</date> our Brn had to
                   return again to the Catacombs |: <hi rend="strikethrough">subterrarious</hi>
@@ -556,7 +584,7 @@
             </div>
 
             <div type="page" n="7l">
-               <!--    graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-08.jpg" (page 7 image is a duplicate)    -->
+               <!--     graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-08.jpg" (page 7 image is a duplicate)     -->
                <head>Ann Krügelstein memoir, page 7 (left)</head>
                <p> &amp; Mind, that they were Prisoners here in <placeName>Petersburg</placeName>;
                   my Husband was also convincedof it, &amp; we encouraged each other often to be
@@ -612,7 +640,7 @@
             </div>
 
             <div type="page" n="8l">
-               <!--     graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-09.jpg"     -->
+               <!--      graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-09.jpg"      -->
                <head>Ann Krügelstein memoir, page 8 (left)</head>
                <p> strict. At last we arrived at <placeName>Maram</placeName> upon the
                      <placeName>River Ocke</placeName>, where we met with more friendly People,who
@@ -673,7 +701,7 @@
             </div>
 
             <div type="page" n="9l">
-               <!--     graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-10.jpg"     -->
+               <!--      graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-10.jpg"      -->
                <head>Ann Krügelstein memoir, page 9 (left)</head>
                <p>
                   <persName>Commander Plaisin</persName>, who out of Love to my Husband, procured a
@@ -736,7 +764,7 @@
             </div>
 
             <div type="page" n="10l">
-               <!--     graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-11.jpg"     -->
+               <!--      graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-11.jpg"      -->
                <head>Ann Krügelstein memoir, page 10 (left)</head>
                <p> the Name of the Ambassador of Saxony. Having now rested here a little after so
                   many sleepless Nights, Dangers, Troubles &amp; Distress, I sat out from
@@ -800,7 +828,7 @@
             </div>
 
             <div type="page" n="11">
-               <!--     graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-12.jpg"     -->
+               <!--      graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-12.jpg"      -->
                <head>Ann Krügelstein memoir, page 11</head>
                <p> &amp; low had a particular Love, Confidence &amp; Esteem for her. She has shewn
                   inexpressible Faithfulness to me &amp; my Child <unclear>till</unclear> to her
