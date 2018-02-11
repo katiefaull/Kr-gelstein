@@ -4,15 +4,15 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
 <rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
 	<cw:mode>0</cw:mode>
-	<cw:allowOverlap>false</cw:allowOverlap>
+	<cw:allowOverlap>true</cw:allowOverlap>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/78558c05-705b-4592-95bc-1b599a8deaa0">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/752aa1e4-3e80-42d2-9665-2591da2627b9"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/90245679-4b4d-4b68-be5c-c442131a2198"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.658Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.455Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.658Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.455Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -36,9 +36,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/3bc9e136-4196-4e25-a2cc-ad4da532ee6c"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Moravia"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.659Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.456Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.659Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.456Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -63,9 +63,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/f953c2e4-6dc1-4266-8b31-0bcbba6e715b"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Jesus"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.660Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.456Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.660Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.456Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -90,9 +90,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/78dcda54-d7b8-456f-af58-96cd82836d75"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Jesus"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.660Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.457Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.660Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.457Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -117,9 +117,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/c405907b-2242-4d21-8e7b-6a80c004f7e9"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Herrnhut"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.661Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.457Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.661Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.457Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -144,9 +144,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/13d3248e-9a2b-4672-be28-eb27ce96cf1c"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/88297284/"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.662Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.458Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.662Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.458Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -171,9 +171,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/aa91c432-7c6d-4b0e-a642-4271ed34be2c"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Frankfurt"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.662Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.458Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.662Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.458Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -197,10 +197,10 @@
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/d9747b85-cb29-4fce-81f9-25fe919d135b">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/1ba46752-9a67-45a3-8df0-a066f1deb817"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Jesus"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/f15598d6-7afc-49dc-968e-6f1f6adb4dd3"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.663Z</oa:annotatedAt>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.459Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.663Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.459Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -224,10 +224,10 @@
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/1f3682c1-aca0-430a-ae95-237293a05989">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/827ab25a-8967-4d79-9147-b1760f3522e1"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Berthelsdorf"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/f271acc3-ca33-4174-88e0-5923aa05e6dc"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.664Z</oa:annotatedAt>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.459Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.664Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.459Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -251,10 +251,10 @@
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/2bf9a19e-8dcf-4323-b1a7-5323c853fa63">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/b409b900-98ae-463b-8d3b-bf1f72db4d14"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Governorate_of_Livonia"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/3f03c7c2-ff9d-40b7-b196-1adf512c1dfc"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.665Z</oa:annotatedAt>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.460Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.665Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.460Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -278,10 +278,10 @@
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/15efbb2b-fe18-48e8-a81c-98589f7d7b25">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/96dcce51-3759-473e-a8c5-9c34d4e3661a"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/241858484/"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/481732dc-7236-4fce-b544-6cdb15a4ad4a"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.666Z</oa:annotatedAt>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.461Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.666Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.461Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -305,10 +305,10 @@
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/d3c6684b-b342-4663-85c5-c2c2aeb3fe1f">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/b1922f97-721e-4c1a-937a-ce42ee101885"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Nicolaus_Zinzendorf"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/3374440f-16aa-4fdd-9cff-d9504943b8be"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.667Z</oa:annotatedAt>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.462Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.667Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.462Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -332,10 +332,10 @@
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/fbd20d68-ab20-4f41-9fe3-e15b0291aec8">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/79cf4834-149c-4dd4-887b-ce6703502317"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Governorate_of_Livonia"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/43295092-882f-46dc-bbbd-03f622ed938e"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.668Z</oa:annotatedAt>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.462Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.668Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.462Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -359,10 +359,10 @@
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/fa470469-e9cb-4b69-b562-b81d08165f7c">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/7d705977-b6fb-4918-811f-8519547b64c7"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/27469041/"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/470372c0-b64e-45f3-b642-bc0d038eea07"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.669Z</oa:annotatedAt>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.463Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:10:49.669Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.463Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -383,7 +383,63 @@
 	<rdf:value>xpointer(//persName[@annotationId="ent_2046"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/835baf1d-c157-458c-a1a4-85d4482c4337">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/3580b73d-f8dc-41c7-89a5-c5e4e6ec5a3a"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.wikidata.org/entity/Q27580754"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/bd2aed68-de34-43f1-9348-8517fcd63d07"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.464Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.464Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"unknown","id":"http://www.wikidata.org/entity/Q27580754","uri":"http://www.wikidata.org/entity/Q27580754","name":"Gutsleff, Eberhard (ADB)","repository":"wikidata","originalQueryString":"Gutslef","description":"entry in the Allgemeine Deutsche Biographie"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://www.wikidata.org/entity/Q27580754","cert":"definite","type":"real"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://www.wikidata.org/entity/Q27580754">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/3580b73d-f8dc-41c7-89a5-c5e4e6ec5a3a">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/7f9041d9-cd79-4d0e-9994-8e0b54821220"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/7a2cf7b0-66bc-4748-957e-fec878436b02"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/7a2cf7b0-66bc-4748-957e-fec878436b02">
+	<rdf:value>xpointer(//persName[@annotationId="ent_2446"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/d92f18ee-964f-4688-9699-a4470d07267a">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/3623902d-0fc3-4485-96d4-6717ac1433cf"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/315972062/"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/86a3f22e-8e66-4bd7-8caa-8fe262dff70f"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.464Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T01:23:26.464Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Geographic","id":"http://viaf.org/viaf/315972062/","uri":"http://viaf.org/viaf/315972062/","name":"Schloss Berthelsdorf (Herrnhut)","repository":"VIAF","originalQueryString":"Berthelsdorf."}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/315972062/","cert":"definite"}</cw:cwrcAttributes>
+<cw:hasPrecision xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#high"/></rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/315972062/">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/3623902d-0fc3-4485-96d4-6717ac1433cf">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/bd38a13f-bcd3-440b-af02-cefcb6a273a2"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/70213421-cb46-4fd5-b23e-785a3f49fd34"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/70213421-cb46-4fd5-b23e-785a3f49fd34">
+	<oa:start xmlns:oa="http://www.w3.org/ns/oa#">xpointer(string-range(//placeName[@offsetId="struct_2143"],"",0))</oa:start>
+	<oa:end xmlns:oa="http://www.w3.org/ns/oa#">xpointer(string-range(//p[@offsetId="struct_2128"],"",1598))</oa:end>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#TextPositionSelector"/>
+</rdf:Description>
 </rdf:RDF>
+
 
 
 
@@ -448,7 +504,7 @@
          <sourceDesc>
             <p>The Life of Ann Krugelstein</p>
          </sourceDesc>
-      </fileDesc><encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-02-11T01:09:57.434Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
+      </fileDesc><encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-02-11T01:22:32.835Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
    <text>
       <body>
 
@@ -465,7 +521,7 @@
 
             <div type="page" n="1">
                <head>Ann Krügelstein memoir, page 1</head>
-               <!--      graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-01.jpg"      -->
+               <!--       graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-01.jpg"       -->
                <p> I was born <date>July 10th 1713</date> at <placeName annotationId="ent_409">Zauchtenthal near Fulneck in
                      Moravia</placeName>. Already in my second Year I experienced a grac- ious
                   Preservation of God. My Mother used to gather Grass for her Cattle, &amp;
@@ -485,7 +541,7 @@
             </div>
             <div type="page" n="2l">
                <head>Ann Krügelstein memoir, page 2 (left)</head>
-               <!--      graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-02.jpg"      -->
+               <!--       graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-02.jpg"       -->
                <p> me upon this Occasion into a particular School , stirred up in my a Confidence to
                   God, so that I could converse with him quite familiarly, &amp; preserved me in
                   many Dan, gers from Deviations, giving me an Admonition when I was not on the
@@ -537,7 +593,7 @@
             </div>
 
             <div type="page" n="3l">
-               <!--      graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-03.jpg"       -->
+               <!--       graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-03.jpg"        -->
                <head>Ann Krügelstein memoir, page 3 (left)</head>
                <p> great Comunion <date>Aug. 13<hi rend="superscript">th</hi>. 1727</date>, and I
                   begged the <persName annotationId="ent_2040" ref="http://dbpedia.org/resource/Jesus" type="both" cert="definite">Lord Jesus</persName>, <hi rend="strikethrough">attended</hi> with many Tears to
@@ -590,7 +646,7 @@
             </div>
 
             <div type="page" n="4l">
-               <!--       graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-04.jpg"       -->
+               <!--        graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-04.jpg"        -->
                <head>Ann Krügelstein memoir, page 4 (left)</head>
                <p> experience Poverty &amp; Reproach of various Kinds. Till <date>1736</date> we had
                   the Care of the Girls <sic>Oeconomy <corr>Economy</corr></sic> in
@@ -623,7 +679,7 @@
 
             <div type="page" n="4r">
                <head>Ann Krügelstein memoir, page 4 (right)</head>
-               <p> The <persName>Brn. Gutslef</persName> and <persName>Helderhof</persName>were
+               <p> The <persName>Brn. <persName annotationId="ent_2446" ref="http://www.wikidata.org/entity/Q27580754" cert="definite" type="real">Gutslef</persName></persName> and <persName>Helderhof</persName>were
                   first brought as Pri- soners to <placeName>Petersburg</placeName>, and in
                      <date>June</date> following also <persName>Br. Fritshe</persName> and my
                   Husband. Though there was a very strict Prohibition, that none of the Brn. &amp;
@@ -654,7 +710,7 @@
             </div>
 
             <div type="page" n="5l">
-               <!--       graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-05.jpg"       -->
+               <!--        graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-05.jpg"        -->
                <head>Ann Krügelstein memoir, page 5 (left)</head>
                <p>
                   <date>Jan. 29<hi rend="superscript">th</hi>. 1748</date>. In Aug. the same Year I
@@ -713,7 +769,7 @@
             </div>
 
             <div type="page" n="6l">
-               <!--       graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-06.jpg"       -->
+               <!--        graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-06.jpg"        -->
                <head>Ann Krügelstein memoir, page 6 (left)</head>
                <p> But our Joy did again not last long, for in <date>May 1752</date> our Brn had to
                   return again to the Catacombs |: <hi rend="strikethrough">subterrarious</hi>
@@ -774,7 +830,7 @@
             </div>
 
             <div type="page" n="7l">
-               <!--      graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-08.jpg" (page 7 image is a duplicate)      -->
+               <!--       graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-08.jpg" (page 7 image is a duplicate)       -->
                <head>Ann Krügelstein memoir, page 7 (left)</head>
                <p> &amp; Mind, that they were Prisoners here in <placeName>Petersburg</placeName>;
                   my Husband was also convincedof it, &amp; we encouraged each other often to be
@@ -830,7 +886,7 @@
             </div>
 
             <div type="page" n="8l">
-               <!--       graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-09.jpg"       -->
+               <!--        graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-09.jpg"        -->
                <head>Ann Krügelstein memoir, page 8 (left)</head>
                <p> strict. At last we arrived at <placeName>Maram</placeName> upon the
                      <placeName>River Ocke</placeName>, where we met with more friendly People,who
@@ -891,7 +947,7 @@
             </div>
 
             <div type="page" n="9l">
-               <!--       graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-10.jpg"       -->
+               <!--        graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-10.jpg"        -->
                <head>Ann Krügelstein memoir, page 9 (left)</head>
                <p>
                   <persName>Commander Plaisin</persName>, who out of Love to my Husband, procured a
@@ -954,7 +1010,7 @@
             </div>
 
             <div type="page" n="10l">
-               <!--       graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-11.jpg"       -->
+               <!--        graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-11.jpg"        -->
                <head>Ann Krügelstein memoir, page 10 (left)</head>
                <p> the Name of the Ambassador of Saxony. Having now rested here a little after so
                   many sleepless Nights, Dangers, Troubles &amp; Distress, I sat out from
@@ -1018,7 +1074,7 @@
             </div>
 
             <div type="page" n="11">
-               <!--       graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-12.jpg"       -->
+               <!--        graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-12.jpg"        -->
                <head>Ann Krügelstein memoir, page 11</head>
                <p> &amp; low had a particular Love, Confidence &amp; Esteem for her. She has shewn
                   inexpressible Faithfulness to me &amp; my Child <unclear>till</unclear> to her
